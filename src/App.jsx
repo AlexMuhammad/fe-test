@@ -1,12 +1,18 @@
 import './App.css'
+import Footer from './components/molecules/Footer'
 import Navbar from './components/molecules/Navbar'
+import { CoreSection, HeroSection, SliderSection, SpecialitySection } from './components/molecules/Sections'
 
 function App() {
 
   return (
     <>
       <Navbar />
-      <h1 className='text-red-300'>tes</h1>
+      <HeroSection />
+      <SliderSection />
+      <CoreSection />
+      <SpecialitySection />
+      <Footer />
     </>
   )
 }
