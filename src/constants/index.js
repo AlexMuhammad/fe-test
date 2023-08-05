@@ -2,9 +2,9 @@ import Logo from "../assets/icon/logo.svg"
 import Speed from "../assets/image/speed.png"
 import Exhaust from "../assets/image/exhaust.png"
 import Accesories from "../assets/image/Accesories.png"
-import DeskHuman from "../../assets/image/deskhuman.png"
-import Scroll from "../../assets/icon/scroll.svg"
-import LogoWhite from "../../assets/icon/logo-white.svg"
+import DeskHuman from "../assets/image/deskhuman.png"
+import Scroll from "../assets/icon/scroll.svg"
+import LogoWhite from "../assets/icon/logo-white.svg"
 
 export { Logo, Scroll, DeskHuman, LogoWhite }
 
